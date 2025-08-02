@@ -5,6 +5,7 @@
     background-color: var(--cor-bg-form);
     width: 100%;
     height: 500px;
+    margin-bottom:0 ;
 }
 
 .section-comentarios div {
