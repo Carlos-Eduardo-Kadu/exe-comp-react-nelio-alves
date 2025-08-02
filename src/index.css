@@ -1,7 +1,7 @@
 
 :root {
  --cor-azul-claro:#3C9AF0;
- --cor-font-titulo:#5E5E5E;
+ --cor-titulo:#5E5E5E;
  --cor-bg-form:#C8C8C8;
  --cor-bg:#ffff;
  --cor-font-titulo:#ffff;
@@ -16,4 +16,5 @@
 body{
   font-family: "Poppins", sans-serif;
   font-style: normal;
+  background-color: var(--cor-bg);
 }
