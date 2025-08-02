@@ -1,5 +1,6 @@
 import "./styles.css"
 import carroImg from "./../../assets/carro.png"
+import CardComentario from "../CardComentario/idex";
 export default function CardCarro() {
     return (
         <>
@@ -15,6 +16,7 @@ export default function CardCarro() {
                         <p>Lorem ipsum dolor</p>
                     </div>
                 </section>
+                <CardComentario/>
             </main>
         </>
     );
