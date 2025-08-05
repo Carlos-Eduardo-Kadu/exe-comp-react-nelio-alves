@@ -5,7 +5,7 @@ export default function Rodape(){
         <footer>
             <div className="container-footer">
                 <p>@dscarrostop</p>
-                <p>Rua da Pipoca, 150</p>
+                <p className="p2">Rua da Pipoca, 150</p>
             </div>
         </footer>
     );

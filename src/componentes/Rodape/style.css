@@ -20,14 +20,24 @@ footer {
     color: var(--cor-font-titulo);
 }
 
-@media (max-width: 320px) {
+
+
+@media (max-width: 600px) {
     footer {
         height: 200px;
     }
+
     .container-footer {
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+    }
+
+    .container-footer p {
+        margin-top: 70px;
+    }
+     .container-footer .p2 {
+        margin-top: 10px;
     }
 }
